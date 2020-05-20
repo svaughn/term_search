@@ -8,3 +8,6 @@ This script:
 * records the result count for each turn
 * sorts the items by count
 * creates csv file with the results
+
+Note: Google will throw up a CAPTCH test every so often. The script gives you 10 minutes to solve it so that the script can continue
+
