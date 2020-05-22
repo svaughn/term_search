@@ -11,3 +11,5 @@ This script:
 
 Note: Google will throw up a CAPTCH test every so often. The script gives you 10 minutes to solve it so that the script can continue
 
+Also Note: This script uses Selenium 1.2 module. You can get it from the PowerShell Gallery using this command:
+  Install-Module -Name Selenium -RequiredVersion 1.2
